@@ -1,0 +1,12 @@
+C:\Лабораторные и практические\Языки программирования\Программа Visual Studio\2 семестр\Курсовая работа\Прога 3.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Triangles_and_Perimeters.csprojAssemblyReference.cache
+C:\Лабораторные и практические\Языки программирования\Программа Visual Studio\2 семестр\Курсовая работа\Прога 3.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Triangles_and_Perimeters.Form1.resources
+C:\Лабораторные и практические\Языки программирования\Программа Visual Studio\2 семестр\Курсовая работа\Прога 3.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Triangles_and_Perimeters.Form2.resources
+C:\Лабораторные и практические\Языки программирования\Программа Visual Studio\2 семестр\Курсовая работа\Прога 3.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Triangles_and_Perimeters.Form3.resources
+C:\Лабораторные и практические\Языки программирования\Программа Visual Studio\2 семестр\Курсовая работа\Прога 3.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Лабораторные и практические\Языки программирования\Программа Visual Studio\2 семестр\Курсовая работа\Прога 3.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Triangles_and_Perimeters.csproj.GenerateResource.cache
+C:\Лабораторные и практические\Языки программирования\Программа Visual Studio\2 семестр\Курсовая работа\Прога 3.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Triangles_and_Perimeters.csproj.CoreCompileInputs.cache
+C:\Лабораторные и практические\Языки программирования\Программа Visual Studio\2 семестр\Курсовая работа\Прога 3.0\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Triangles and Perimeters.exe.config
+C:\Лабораторные и практические\Языки программирования\Программа Visual Studio\2 семестр\Курсовая работа\Прога 3.0\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Triangles and Perimeters.exe
+C:\Лабораторные и практические\Языки программирования\Программа Visual Studio\2 семестр\Курсовая работа\Прога 3.0\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Triangles and Perimeters.pdb
+C:\Лабораторные и практические\Языки программирования\Программа Visual Studio\2 семестр\Курсовая работа\Прога 3.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Triangles and Perimeters.exe
+C:\Лабораторные и практические\Языки программирования\Программа Visual Studio\2 семестр\Курсовая работа\Прога 3.0\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Triangles and Perimeters.pdb
